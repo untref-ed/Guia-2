@@ -12,7 +12,7 @@
 
 - Encontrar el camino mínimo desde **2** a todos los vértices del grafo. 
 
-- ¿Se puede aplicar el algoritmo de Dijkstra si se elige el vértice 2 como origen? Justificar.
+- ¿Se puede aplicar el algoritmo de Dijkstra si se elige el vértice 1 como origen? Justificar.
 
 - Elegir un vértice tal que el algoritmo de Dijkstra falle. Justificar
 
